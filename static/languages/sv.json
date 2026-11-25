@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många européer skyddar sina personuppgifter online?",
+  "subtitle": "År 2025 vidtog 76,9 % av internetanvändarna i EU minst ett steg för att skydda sina personuppgifter online, en ökning från 73,2 % år 2023. Finland hade den högsta andelen med 92,6 %, medan Rumänien hade den lägsta med 56,0 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna omfattar personer i åldern 16–74 år som använde internet under de tre månaderna före undersökningen. Eurostat räknar alla som vidtog minst ett av fem steg under den perioden, såsom att begränsa platsåtkomst, vägra användning av personuppgifter för reklam eller läsa en integritetspolicy innan de delar personlig information.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
