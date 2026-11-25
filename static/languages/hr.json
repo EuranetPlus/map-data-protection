@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko Europljana štiti svoje osobne podatke na internetu?",
+  "subtitle": "U 2025. godini 76,9% korisnika interneta u EU poduzelo je barem jedan korak kako bi zaštitilo svoje osobne podatke na internetu, u odnosu na 73,2% u 2023. godini. Finska je imala najveći udio s 92,6%, dok je Rumunjska imala najniži s 56,0%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Brojke obuhvaćaju osobe u dobi od 16 do 74 godine koje su koristile internet u tri mjeseca prije istraživanja. Eurostat broji sve koji su poduzeli barem jedan od pet koraka tijekom tog razdoblja, kao što su ograničavanje pristupa lokaciji, odbijanje korištenja osobnih podataka za oglašavanje ili čitanje politike privatnosti prije dijeljenja osobnih podataka.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
