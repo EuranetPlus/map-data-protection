@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel Europeanen beschermen hun persoonlijke gegevens online?",
+  "subtitle": "In 2025 nam 76,9% van de internetgebruikers in de EU minstens één maatregel om hun persoonlijke gegevens online te beschermen, een stijging ten opzichte van 73,2% in 2023. Finland had het hoogste percentage met 92,6%, terwijl Roemenië het laagste percentage had met 56,0%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De cijfers hebben betrekking op mensen van 16 tot en met 74 jaar die in de drie maanden voorafgaand aan het onderzoek internet hebben gebruikt. Eurostat telt iedereen mee die in die periode ten minste één van de vijf stappen heeft ondernomen, zoals het beperken van toegang tot locatiegegevens, het weigeren van het gebruik van persoonsgegevens voor reclame of het lezen van een privacyverklaring voordat persoonlijke informatie wordt gedeeld.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
