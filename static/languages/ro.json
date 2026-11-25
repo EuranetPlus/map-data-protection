@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câți europeni își protejează datele personale online?",
+  "subtitle": "În 2025, 76,9% dintre utilizatorii de internet din UE au luat cel puțin o măsură pentru a-și proteja datele personale online, față de 73,2% în 2023. Finlanda a avut cea mai mare pondere, de 92,6%, în timp ce România a avut cea mai mică, de 56,0%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Cifrele se referă la persoanele cu vârste cuprinse între 16 și 74 de ani care au utilizat internetul în cele trei luni anterioare sondajului. Eurostat ia în considerare pe oricine a luat cel puțin una dintre cele cinci măsuri în această perioadă, cum ar fi restricționarea accesului la locație, refuzul utilizării datelor cu caracter personal pentru publicitate sau citirea unei politici de confidențialitate înainte de a partaja informații personale.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
