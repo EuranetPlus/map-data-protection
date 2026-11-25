@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm Ewropej jipproteġu d-dejta personali tagħhom online?",
+  "subtitle": "Fl-2025, 76.9% tal-utenti tal-internet tal-UE ħadu mill-inqas pass wieħed biex jipproteġu d-dejta personali tagħhom online, żieda minn 73.2% fl-2023. Il-Finlandja kellha l-ogħla sehem b'92.6%, filwaqt li r-Rumanija kellha l-inqas b'56.0%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri jkopru persuni ta’ bejn is-16 u l-74 sena li użaw l-internet fit-tliet xhur ta’ qabel l-istħarriġ. L-Eurostat jgħodd lil kull min ħa mill-inqas wieħed minn ħames passi matul dak il-perjodu, bħar-restrizzjoni tal-aċċess għal-lokazzjoni, ir-rifjut tal-użu tad-dejta personali għar-reklamar jew il-qari ta’ politika ta’ privatezza qabel ma jaqsam informazzjoni personali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
