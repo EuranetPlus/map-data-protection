@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko Európanov chráni svoje osobné údaje online?",
+  "subtitle": "V roku 2025 podniklo 76,9 % používateľov internetu v EÚ aspoň jeden krok na ochranu svojich osobných údajov online, čo je nárast oproti 73,2 % v roku 2023. Fínsko malo najvyšší podiel s 92,6 %, zatiaľ čo Rumunsko malo najnižší podiel s 56,0 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje sa vzťahujú na ľudí vo veku 16 – 74 rokov, ktorí používali internet v troch mesiacoch pred prieskumom. Eurostat počíta každého, kto počas tohto obdobia podnikol aspoň jeden z piatich krokov, ako je obmedzenie prístupu k polohe, odmietnutie použitia osobných údajov na reklamné účely alebo prečítanie zásad ochrany osobných údajov pred zdieľaním osobných údajov.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
