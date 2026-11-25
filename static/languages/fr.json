@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien d'Européens protègent leurs données personnelles en ligne ?",
+  "subtitle": "En 2025, 76,9 % des internautes de l'UE ont pris au moins une mesure pour protéger leurs données personnelles en ligne, contre 73,2 % en 2023. La Finlande affichait le taux le plus élevé (92,6 %), tandis que la Roumanie enregistrait le plus faible (56,0 %).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les chiffres concernent les personnes âgées de 16 à 74 ans ayant utilisé Internet au cours des trois mois précédant l'enquête. Eurostat comptabilise toute personne ayant effectué au moins une des cinq actions suivantes durant cette période : limiter l'accès à la géolocalisation, refuser l'utilisation de ses données personnelles à des fins publicitaires ou consulter une politique de confidentialité avant de partager des informations personnelles.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
