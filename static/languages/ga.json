@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad Eorpach a chosnaíonn a gcuid sonraí pearsanta ar líne?",
+  "subtitle": "Sa bhliain 2025, ghlac 76.9% d’úsáideoirí idirlín an AE céim amháin ar a laghad chun a gcuid sonraí pearsanta a chosaint ar líne, suas ó 73.2% sa bhliain 2023. Bhí an sciar is airde ag an bhFionlainn ag 92.6%, agus bhí an sciar is ísle ag an Rómáin ag 56.0%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Clúdaíonn na figiúirí daoine idir 16 agus 74 bliana d'aois a d'úsáid an t-idirlíon sna trí mhí roimh an suirbhé. Comhaireamh Eurostat aon duine a ghlac ceann amháin ar a laghad de chúig chéim le linn na tréimhse sin, amhail rochtain ar shuíomh a shrianadh, diúltú d'úsáid sonraí pearsanta le haghaidh fógraíochta nó polasaí príobháideachta a léamh sula ndéantar faisnéis phearsanta a roinnt.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
