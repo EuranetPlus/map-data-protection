@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ilu Europejczyków chroni swoje dane osobowe w Internecie?",
+  "subtitle": "W 2025 r. 76,9% użytkowników internetu w UE podjęło co najmniej jeden krok w celu ochrony swoich danych osobowych w sieci, w porównaniu z 73,2% w 2023 r. Najwyższy odsetek – 92,6% – odnotowała Finlandia, a najniższy Rumunia – 56,0%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane obejmują osoby w wieku 16–74 lat, które korzystały z internetu w ciągu trzech miesięcy poprzedzających badanie. Eurostat uwzględnia każdą osobę, która podjęła co najmniej jeden z pięciu kroków w tym okresie, takich jak ograniczenie dostępu do informacji o lokalizacji, odmowa wykorzystania danych osobowych do celów reklamowych lub zapoznanie się z polityką prywatności przed udostępnieniem danych osobowych.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
