@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Europäer schützen ihre persönlichen Daten online?",
+  "subtitle": "Im Jahr 2025 unternahmen 76,9 % der EU-Internetnutzer mindestens eine Maßnahme zum Schutz ihrer persönlichen Daten im Internet, gegenüber 73,2 % im Jahr 2023. Finnland wies mit 92,6 % den höchsten Anteil auf, Rumänien mit 56,0 % den niedrigsten.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Zahlen umfassen Personen im Alter von 16 bis 74 Jahren, die das Internet in den drei Monaten vor der Befragung genutzt haben. Eurostat zählt alle, die in diesem Zeitraum mindestens eine von fünf Maßnahmen ergriffen haben, wie beispielsweise die Einschränkung des Standortzugriffs, die Ablehnung der Verwendung personenbezogener Daten für Werbezwecke oder das Lesen einer Datenschutzerklärung vor der Weitergabe personenbezogener Daten.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
