@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How many Europeans protect their personal data online?",
+  "subtitle": "In 2025, 76.9% of EU internet users took at least one step to protect their personal data online, up from 73.2% in 2023. Finland had the highest share at 92.6%, while Romania had the lowest at 56.0%",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The figures cover people aged 16–74 who used the internet in the three months before the survey. Eurostat counts anyone who took at least one of five steps during that period, such as restricting location access, refusing the use of personal data for advertising or reading a privacy policy before sharing personal information",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
