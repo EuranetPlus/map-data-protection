@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik eiropiešu aizsargā savus personas datus tiešsaistē?",
+  "subtitle": "2025. gadā 76,9 % ES interneta lietotāju veica vismaz vienu soli, lai aizsargātu savus personas datus tiešsaistē, salīdzinot ar 73,2 % 2023. gadā. Somijā bija visaugstākais rādītājs — 92,6 %, savukārt Rumānijā — viszemākais — 56,0 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šie skaitļi aptver cilvēkus vecumā no 16 līdz 74 gadiem, kuri lietoja internetu trīs mēnešus pirms apsekojuma. Eurostat uzskaita ikvienu, kurš šajā periodā ir veicis vismaz vienu no piecām darbībām, piemēram, ierobežojis piekļuvi atrašanās vietai, atteikies izmantot personas datus reklāmai vai izlasījis privātuma politiku pirms personas informācijas kopīgošanas.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
